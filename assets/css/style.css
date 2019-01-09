@@ -1,0 +1,14 @@
+h1 {
+	text-shadow: 3px 3px black;
+	font-weight: bold;
+}
+
+h4,h5 {
+	text-shadow: 1px 1px black;
+}
+
+.btn.btn-primary {
+	text-shadow: .25px .25px black;
+	border: 1.25px solid black;
+}
+
